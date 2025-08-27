@@ -1,0 +1,1 @@
+I Tyler Simmons, hereby declare that I am all set to write C++ code for linux (or mac-unix) and push the code to GitHub from my command line.
